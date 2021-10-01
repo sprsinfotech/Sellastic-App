@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/drawable-anydpi-v24/onboarding_activity_button_1.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/drawable-anydpi-v24/onboarding_activity_button_2.xml" value="0.14635416666666667" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/drawable-anydpi-v24/onboarding_activity_button_3.xml" value="0.14635416666666667" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/drawable-anydpi-v24/onboarding_activity_button_4.xml" value="0.14635416666666667" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/drawable-anydpi-v24/onboarding_activity_ic_waves_4.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/drawable-v24/onboarding_activity_ic_waves_1.xml" value="0.14635416666666667" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/drawable/bg_01.xml" value="0.22407407407407406" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/drawable/btn_shape_bg.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/drawable/ic_splash1.xml" value="0.22407407407407406" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/layout/activity_onboarding.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/layout/activity_splash_screen.xml" value="0.152" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/layout/notification.xml" value="0.13020833333333334" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/layout/onboarding_1.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/layout/onboarding_2.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/layout/onboarding_3.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/layout/onboarding_4.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
+        <entry key="..\:/AndroidStudioProjects/Sellastic/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

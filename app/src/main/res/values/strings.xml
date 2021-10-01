@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sellastic</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+    <string name="ob_title1">Join</string>
+    <string name="ob_content1">Are you feel alone…! \n Do not wait, Just ... \n Join us, Today Hurry.</string>
+    <string name="ob_title2">Invite</string>
+    <string name="ob_content2"> Make your all invites get worthy ? \n Just click to share. \n We arrange it for you.</string>
+    <string name="ob_title3">Make Team</string>
+    <string name="ob_content3"> Whoopee .... \n Time does not matter. \n You can make your own Team \n in a Eye Flash.</string>
+    <string name="ob_title4">Earn</string>
+    <string name="ob_content4">Start earning from today \n Make friends, Chit chat \n Feel own Kingdom.</string>
+    <string name="next">Next</string>
+    <string name="AD_UNIT_ID">ca-app-pub-1070500299860646/4002996751</string>
+</resources>
